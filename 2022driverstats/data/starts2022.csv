@@ -1,0 +1,218 @@
+,index,Pos,Driver,Car,race_name,race_year,race_num
+0,0,1,Charles Leclerc LEC,Ferrari,bahrain,2022,1124
+1,1,2,Max Verstappen VER,Red Bull Racing RBPT,bahrain,2022,1124
+2,2,3,Carlos Sainz SAI,Ferrari,bahrain,2022,1124
+3,3,4,Sergio Perez PER,Red Bull Racing RBPT,bahrain,2022,1124
+4,4,5,Lewis Hamilton HAM,Mercedes,bahrain,2022,1124
+5,5,6,Valtteri Bottas BOT,Alfa Romeo Ferrari,bahrain,2022,1124
+6,6,7,Kevin Magnussen MAG,Haas Ferrari,bahrain,2022,1124
+7,7,8,Fernando Alonso ALO,Alpine Renault,bahrain,2022,1124
+8,8,9,George Russell RUS,Mercedes,bahrain,2022,1124
+9,9,10,Pierre Gasly GAS,AlphaTauri RBPT,bahrain,2022,1124
+10,10,11,Esteban Ocon OCO,Alpine Renault,bahrain,2022,1124
+11,11,12,Mick Schumacher MSC,Haas Ferrari,bahrain,2022,1124
+12,12,13,Lando Norris NOR,McLaren Mercedes,bahrain,2022,1124
+13,13,14,Alexander Albon ALB,Williams Mercedes,bahrain,2022,1124
+14,14,15,Zhou Guanyu ZHO,Alfa Romeo Ferrari,bahrain,2022,1124
+15,15,16,Yuki Tsunoda TSU,AlphaTauri RBPT,bahrain,2022,1124
+16,16,17,Nico Hulkenberg HUL,Aston Martin Aramco Mercedes,bahrain,2022,1124
+17,17,18,Daniel Ricciardo RIC,McLaren Mercedes,bahrain,2022,1124
+18,18,19,Lance Stroll STR,Aston Martin Aramco Mercedes,bahrain,2022,1124
+19,19,20,Nicholas Latifi LAT,Williams Mercedes,bahrain,2022,1124
+20,0,1,Sergio Perez PER,Red Bull Racing RBPT,saudi-arabia,2022,1125
+21,1,2,Charles Leclerc LEC,Ferrari,saudi-arabia,2022,1125
+22,2,3,Carlos Sainz SAI,Ferrari,saudi-arabia,2022,1125
+23,3,4,Max Verstappen VER,Red Bull Racing RBPT,saudi-arabia,2022,1125
+24,4,5,Esteban Ocon OCO,Alpine Renault,saudi-arabia,2022,1125
+25,5,6,George Russell RUS,Mercedes,saudi-arabia,2022,1125
+26,6,7,Fernando Alonso ALO,Alpine Renault,saudi-arabia,2022,1125
+27,7,8,Valtteri Bottas BOT,Alfa Romeo Ferrari,saudi-arabia,2022,1125
+28,8,9,Pierre Gasly GAS,AlphaTauri RBPT,saudi-arabia,2022,1125
+29,9,10,Kevin Magnussen MAG,Haas Ferrari,saudi-arabia,2022,1125
+30,10,11,Lando Norris NOR,McLaren Mercedes,saudi-arabia,2022,1125
+31,11,12,Zhou Guanyu ZHO,Alfa Romeo Ferrari,saudi-arabia,2022,1125
+32,12,13,Lance Stroll STR,Aston Martin Aramco Mercedes,saudi-arabia,2022,1125
+33,13,14,Daniel Ricciardo RIC,McLaren Mercedes,saudi-arabia,2022,1125
+34,14,15,Lewis Hamilton HAM,Mercedes,saudi-arabia,2022,1125
+35,15,16,Alexander Albon ALB,Williams Mercedes,saudi-arabia,2022,1125
+36,16,17,Nico Hulkenberg HUL,Aston Martin Aramco Mercedes,saudi-arabia,2022,1125
+37,17,18,Nicholas Latifi LAT,Williams Mercedes,saudi-arabia,2022,1125
+38,18,19,Yuki Tsunoda TSU,AlphaTauri RBPT,saudi-arabia,2022,1125
+39,0,1,Charles Leclerc LEC,Ferrari,australia,2022,1108
+40,1,2,Max Verstappen VER,Red Bull Racing RBPT,australia,2022,1108
+41,2,3,Sergio Perez PER,Red Bull Racing RBPT,australia,2022,1108
+42,3,4,Lando Norris NOR,McLaren Mercedes,australia,2022,1108
+43,4,5,Lewis Hamilton HAM,Mercedes,australia,2022,1108
+44,5,6,George Russell RUS,Mercedes,australia,2022,1108
+45,6,7,Daniel Ricciardo RIC,McLaren Mercedes,australia,2022,1108
+46,7,8,Esteban Ocon OCO,Alpine Renault,australia,2022,1108
+47,8,9,Carlos Sainz SAI,Ferrari,australia,2022,1108
+48,9,10,Fernando Alonso ALO,Alpine Renault,australia,2022,1108
+49,10,11,Pierre Gasly GAS,AlphaTauri RBPT,australia,2022,1108
+50,11,12,Valtteri Bottas BOT,Alfa Romeo Ferrari,australia,2022,1108
+51,12,13,Yuki Tsunoda TSU,AlphaTauri RBPT,australia,2022,1108
+52,13,14,Zhou Guanyu ZHO,Alfa Romeo Ferrari,australia,2022,1108
+53,14,15,Mick Schumacher MSC,Haas Ferrari,australia,2022,1108
+54,15,16,Kevin Magnussen MAG,Haas Ferrari,australia,2022,1108
+55,16,17,Sebastian Vettel VET,Aston Martin Aramco Mercedes,australia,2022,1108
+56,17,18,Nicholas Latifi LAT,Williams Mercedes,australia,2022,1108
+57,18,19,Lance Stroll STR,Aston Martin Aramco Mercedes,australia,2022,1108
+58,19,20,Alexander Albon ALB,Williams Mercedes,australia,2022,1108
+59,0,1,Max Verstappen VER,Red Bull Racing RBPT,italy,2022,1109
+60,1,2,Charles Leclerc LEC,Ferrari,italy,2022,1109
+61,2,3,Sergio Perez PER,Red Bull Racing RBPT,italy,2022,1109
+62,3,4,Carlos Sainz SAI,Ferrari,italy,2022,1109
+63,4,5,Lando Norris NOR,McLaren Mercedes,italy,2022,1109
+64,5,6,Daniel Ricciardo RIC,McLaren Mercedes,italy,2022,1109
+65,6,7,Valtteri Bottas BOT,Alfa Romeo Ferrari,italy,2022,1109
+66,7,8,Kevin Magnussen MAG,Haas Ferrari,italy,2022,1109
+67,8,9,Fernando Alonso ALO,Alpine Renault,italy,2022,1109
+68,9,10,Mick Schumacher MSC,Haas Ferrari,italy,2022,1109
+69,10,11,George Russell RUS,Mercedes,italy,2022,1109
+70,11,12,Yuki Tsunoda TSU,AlphaTauri RBPT,italy,2022,1109
+71,12,13,Sebastian Vettel VET,Aston Martin Aramco Mercedes,italy,2022,1109
+72,13,14,Lewis Hamilton HAM,Mercedes,italy,2022,1109
+73,14,15,Lance Stroll STR,Aston Martin Aramco Mercedes,italy,2022,1109
+74,15,16,Esteban Ocon OCO,Alpine Renault,italy,2022,1109
+75,16,17,Pierre Gasly GAS,AlphaTauri RBPT,italy,2022,1109
+76,17,18,Alexander Albon ALB,Williams Mercedes,italy,2022,1109
+77,18,19,Nicholas Latifi LAT,Williams Mercedes,italy,2022,1109
+78,0,1,Charles Leclerc LEC,Ferrari,miami,2022,1110
+79,1,2,Carlos Sainz SAI,Ferrari,miami,2022,1110
+80,2,3,Max Verstappen VER,Red Bull Racing RBPT,miami,2022,1110
+81,3,4,Sergio Perez PER,Red Bull Racing RBPT,miami,2022,1110
+82,4,5,Valtteri Bottas BOT,Alfa Romeo Ferrari,miami,2022,1110
+83,5,6,Lewis Hamilton HAM,Mercedes,miami,2022,1110
+84,6,7,Pierre Gasly GAS,AlphaTauri RBPT,miami,2022,1110
+85,7,8,Lando Norris NOR,McLaren Mercedes,miami,2022,1110
+86,8,9,Yuki Tsunoda TSU,AlphaTauri RBPT,miami,2022,1110
+87,9,10,Lance Stroll STR,Aston Martin Aramco Mercedes,miami,2022,1110
+88,10,11,Fernando Alonso ALO,Alpine Renault,miami,2022,1110
+89,11,12,George Russell RUS,Mercedes,miami,2022,1110
+90,12,13,Sebastian Vettel VET,Aston Martin Aramco Mercedes,miami,2022,1110
+91,13,14,Daniel Ricciardo RIC,McLaren Mercedes,miami,2022,1110
+92,14,15,Mick Schumacher MSC,Haas Ferrari,miami,2022,1110
+93,15,16,Kevin Magnussen MAG,Haas Ferrari,miami,2022,1110
+94,16,17,Zhou Guanyu ZHO,Alfa Romeo Ferrari,miami,2022,1110
+95,17,18,Alexander Albon ALB,Williams Mercedes,miami,2022,1110
+96,18,19,Nicholas Latifi LAT,Williams Mercedes,miami,2022,1110
+97,19,20,Esteban Ocon OCO,Alpine Renault,miami,2022,1110
+98,0,1,Charles Leclerc LEC,Ferrari,spain,2022,1111
+99,1,2,Max Verstappen VER,Red Bull Racing RBPT,spain,2022,1111
+100,2,3,Carlos Sainz SAI,Ferrari,spain,2022,1111
+101,3,4,George Russell RUS,Mercedes,spain,2022,1111
+102,4,5,Sergio Perez PER,Red Bull Racing RBPT,spain,2022,1111
+103,5,6,Lewis Hamilton HAM,Mercedes,spain,2022,1111
+104,6,7,Valtteri Bottas BOT,Alfa Romeo Ferrari,spain,2022,1111
+105,7,8,Kevin Magnussen MAG,Haas Ferrari,spain,2022,1111
+106,8,9,Daniel Ricciardo RIC,McLaren Mercedes,spain,2022,1111
+107,9,10,Mick Schumacher MSC,Haas Ferrari,spain,2022,1111
+108,10,11,Lando Norris NOR,McLaren Mercedes,spain,2022,1111
+109,11,12,Esteban Ocon OCO,Alpine Renault,spain,2022,1111
+110,12,13,Yuki Tsunoda TSU,AlphaTauri RBPT,spain,2022,1111
+111,13,14,Pierre Gasly GAS,AlphaTauri RBPT,spain,2022,1111
+112,14,15,Zhou Guanyu ZHO,Alfa Romeo Ferrari,spain,2022,1111
+113,15,16,Sebastian Vettel VET,Aston Martin Aramco Mercedes,spain,2022,1111
+114,16,17,Lance Stroll STR,Aston Martin Aramco Mercedes,spain,2022,1111
+115,17,18,Alexander Albon ALB,Williams Mercedes,spain,2022,1111
+116,18,19,Nicholas Latifi LAT,Williams Mercedes,spain,2022,1111
+117,19,20,Fernando Alonso ALO,Alpine Renault,spain,2022,1111
+118,0,1,Charles Leclerc LEC,Ferrari,monaco,2022,1112
+119,1,2,Carlos Sainz SAI,Ferrari,monaco,2022,1112
+120,2,3,Sergio Perez PER,Red Bull Racing RBPT,monaco,2022,1112
+121,3,4,Max Verstappen VER,Red Bull Racing RBPT,monaco,2022,1112
+122,4,5,Lando Norris NOR,McLaren Mercedes,monaco,2022,1112
+123,5,6,George Russell RUS,Mercedes,monaco,2022,1112
+124,6,7,Fernando Alonso ALO,Alpine Renault,monaco,2022,1112
+125,7,8,Lewis Hamilton HAM,Mercedes,monaco,2022,1112
+126,8,9,Sebastian Vettel VET,Aston Martin Aramco Mercedes,monaco,2022,1112
+127,9,10,Esteban Ocon OCO,Alpine Renault,monaco,2022,1112
+128,10,11,Yuki Tsunoda TSU,AlphaTauri RBPT,monaco,2022,1112
+129,11,12,Valtteri Bottas BOT,Alfa Romeo Ferrari,monaco,2022,1112
+130,12,13,Kevin Magnussen MAG,Haas Ferrari,monaco,2022,1112
+131,13,14,Daniel Ricciardo RIC,McLaren Mercedes,monaco,2022,1112
+132,14,15,Mick Schumacher MSC,Haas Ferrari,monaco,2022,1112
+133,15,16,Alexander Albon ALB,Williams Mercedes,monaco,2022,1112
+134,16,17,Pierre Gasly GAS,AlphaTauri RBPT,monaco,2022,1112
+135,17,18,Lance Stroll STR,Aston Martin Aramco Mercedes,monaco,2022,1112
+136,18,19,Nicholas Latifi LAT,Williams Mercedes,monaco,2022,1112
+137,19,20,Zhou Guanyu ZHO,Alfa Romeo Ferrari,monaco,2022,1112
+138,0,1,Charles Leclerc LEC,Ferrari,azerbaijan,2022,1126
+139,1,2,Sergio Perez PER,Red Bull Racing RBPT,azerbaijan,2022,1126
+140,2,3,Max Verstappen VER,Red Bull Racing RBPT,azerbaijan,2022,1126
+141,3,4,Carlos Sainz SAI,Ferrari,azerbaijan,2022,1126
+142,4,5,George Russell RUS,Mercedes,azerbaijan,2022,1126
+143,5,6,Pierre Gasly GAS,AlphaTauri RBPT,azerbaijan,2022,1126
+144,6,7,Lewis Hamilton HAM,Mercedes,azerbaijan,2022,1126
+145,7,8,Yuki Tsunoda TSU,AlphaTauri RBPT,azerbaijan,2022,1126
+146,8,9,Sebastian Vettel VET,Aston Martin Aramco Mercedes,azerbaijan,2022,1126
+147,9,10,Fernando Alonso ALO,Alpine Renault,azerbaijan,2022,1126
+148,10,11,Lando Norris NOR,McLaren Mercedes,azerbaijan,2022,1126
+149,11,12,Daniel Ricciardo RIC,McLaren Mercedes,azerbaijan,2022,1126
+150,12,13,Esteban Ocon OCO,Alpine Renault,azerbaijan,2022,1126
+151,13,14,Zhou Guanyu ZHO,Alfa Romeo Ferrari,azerbaijan,2022,1126
+152,14,15,Valtteri Bottas BOT,Alfa Romeo Ferrari,azerbaijan,2022,1126
+153,15,16,Kevin Magnussen MAG,Haas Ferrari,azerbaijan,2022,1126
+154,16,17,Alexander Albon ALB,Williams Mercedes,azerbaijan,2022,1126
+155,17,18,Nicholas Latifi LAT,Williams Mercedes,azerbaijan,2022,1126
+156,18,19,Lance Stroll STR,Aston Martin Aramco Mercedes,azerbaijan,2022,1126
+157,19,20,Mick Schumacher MSC,Haas Ferrari,azerbaijan,2022,1126
+158,0,1,Max Verstappen VER,Red Bull Racing RBPT,canada,2022,1113
+159,1,2,Fernando Alonso ALO,Alpine Renault,canada,2022,1113
+160,2,3,Carlos Sainz SAI,Ferrari,canada,2022,1113
+161,3,4,Lewis Hamilton HAM,Mercedes,canada,2022,1113
+162,4,5,Kevin Magnussen MAG,Haas Ferrari,canada,2022,1113
+163,5,6,Mick Schumacher MSC,Haas Ferrari,canada,2022,1113
+164,6,7,Esteban Ocon OCO,Alpine Renault,canada,2022,1113
+165,7,8,George Russell RUS,Mercedes,canada,2022,1113
+166,8,9,Daniel Ricciardo RIC,McLaren Mercedes,canada,2022,1113
+167,9,10,Zhou Guanyu ZHO,Alfa Romeo Ferrari,canada,2022,1113
+168,10,11,Valtteri Bottas BOT,Alfa Romeo Ferrari,canada,2022,1113
+169,11,12,Alexander Albon ALB,Williams Mercedes,canada,2022,1113
+170,12,13,Sergio Perez PER,Red Bull Racing RBPT,canada,2022,1113
+171,13,14,Lando Norris NOR,McLaren Mercedes,canada,2022,1113
+172,14,15,Pierre Gasly GAS,AlphaTauri RBPT,canada,2022,1113
+173,15,16,Sebastian Vettel VET,Aston Martin Aramco Mercedes,canada,2022,1113
+174,16,17,Lance Stroll STR,Aston Martin Aramco Mercedes,canada,2022,1113
+175,17,18,Nicholas Latifi LAT,Williams Mercedes,canada,2022,1113
+176,18,19,Charles Leclerc LEC,Ferrari,canada,2022,1113
+177,19,20,Yuki Tsunoda TSU,AlphaTauri RBPT,canada,2022,1113
+178,0,1,Carlos Sainz SAI,Ferrari,great-britain,2022,1114
+179,1,2,Max Verstappen VER,Red Bull Racing RBPT,great-britain,2022,1114
+180,2,3,Charles Leclerc LEC,Ferrari,great-britain,2022,1114
+181,3,4,Sergio Perez PER,Red Bull Racing RBPT,great-britain,2022,1114
+182,4,5,Lewis Hamilton HAM,Mercedes,great-britain,2022,1114
+183,5,6,Lando Norris NOR,McLaren Mercedes,great-britain,2022,1114
+184,6,7,Fernando Alonso ALO,Alpine Renault,great-britain,2022,1114
+185,7,8,George Russell RUS,Mercedes,great-britain,2022,1114
+186,8,9,Zhou Guanyu ZHO,Alfa Romeo Ferrari,great-britain,2022,1114
+187,9,10,Nicholas Latifi LAT,Williams Mercedes,great-britain,2022,1114
+188,10,11,Pierre Gasly GAS,AlphaTauri RBPT,great-britain,2022,1114
+189,11,12,Valtteri Bottas BOT,Alfa Romeo Ferrari,great-britain,2022,1114
+190,12,13,Yuki Tsunoda TSU,AlphaTauri RBPT,great-britain,2022,1114
+191,13,14,Daniel Ricciardo RIC,McLaren Mercedes,great-britain,2022,1114
+192,14,15,Esteban Ocon OCO,Alpine Renault,great-britain,2022,1114
+193,15,16,Alexander Albon ALB,Williams Mercedes,great-britain,2022,1114
+194,16,17,Kevin Magnussen MAG,Haas Ferrari,great-britain,2022,1114
+195,17,18,Sebastian Vettel VET,Aston Martin Aramco Mercedes,great-britain,2022,1114
+196,18,19,Mick Schumacher MSC,Haas Ferrari,great-britain,2022,1114
+197,19,20,Lance Stroll STR,Aston Martin Aramco Mercedes,great-britain,2022,1114
+198,0,1,Max Verstappen VER,Red Bull Racing RBPT,austria,2022,1115
+199,1,2,Charles Leclerc LEC,Ferrari,austria,2022,1115
+200,2,3,Carlos Sainz SAI,Ferrari,austria,2022,1115
+201,3,4,George Russell RUS,Mercedes,austria,2022,1115
+202,4,5,Sergio Perez PER,Red Bull Racing RBPT,austria,2022,1115
+203,5,6,Esteban Ocon OCO,Alpine Renault,austria,2022,1115
+204,6,7,Kevin Magnussen MAG,Haas Ferrari,austria,2022,1115
+205,7,8,Lewis Hamilton HAM,Mercedes,austria,2022,1115
+206,8,9,Mick Schumacher MSC,Haas Ferrari,austria,2022,1115
+207,9,10,Lando Norris NOR,McLaren Mercedes,austria,2022,1115
+208,10,11,Daniel Ricciardo RIC,McLaren Mercedes,austria,2022,1115
+209,11,12,Lance Stroll STR,Aston Martin Aramco Mercedes,austria,2022,1115
+210,12,13,Zhou Guanyu ZHO,Alfa Romeo Ferrari,austria,2022,1115
+211,13,14,Pierre Gasly GAS,AlphaTauri RBPT,austria,2022,1115
+212,14,15,Alexander Albon ALB,Williams Mercedes,austria,2022,1115
+213,15,16,Yuki Tsunoda TSU,AlphaTauri RBPT,austria,2022,1115
+214,16,17,Nicholas Latifi LAT,Williams Mercedes,austria,2022,1115
+215,17,18,Sebastian Vettel VET,Aston Martin Aramco Mercedes,austria,2022,1115
+216,18,19,Fernando Alonso ALO,Alpine Renault,austria,2022,1115
